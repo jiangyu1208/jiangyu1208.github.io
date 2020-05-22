@@ -18,5 +18,5 @@ I enjoy cooking during my spare time and am going to have a cat when I can live 
 
 ### Contact me
 
-[Email:](mailto:yjiang32@ncus.edu)
-[Facebook:](https://www.facebook.com/Jiangyu19931208)
+[yjiang32@ncsu.edu](mailto:yjiang32@ncus.edu)
+[https://www.facebook.com/Jiangyu19931208]
