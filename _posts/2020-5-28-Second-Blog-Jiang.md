@@ -1,3 +1,8 @@
+---
+layout: post
+title: Second Blog
+---
+
 Q1: What are your thoughts on R vs whatever other software you've used?  
 
 I have used SAS and Python besides R. In my views, R is the language closest to the natural language than SAS and Python.
