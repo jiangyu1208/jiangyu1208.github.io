@@ -33,6 +33,9 @@ to return the approriate results.
 I have learned how to connect Rstudio with GitHub and how to produce the website from rmarkdown through GitHub through this project.
 
 
-The link for the website about my project 1: https://jiangyu1208.github.io/ST558-Summer20-Project-1/
-[Website](https://en.wikipedia.org/wiki/Linear_discriminant_analysis).
+The link for the website about my project 1: 
+
+https://jiangyu1208.github.io/ST558-Summer20-Project-1/
+
+[Website](https://jiangyu1208.github.io/ST558-Summer20-Project-1/).
 
