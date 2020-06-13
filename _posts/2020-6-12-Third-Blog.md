@@ -34,3 +34,5 @@ I have learned how to connect Rstudio with GitHub and how to produce the website
 
 
 The link for the website about my project 1: https://jiangyu1208.github.io/ST558-Summer20-Project-1/
+[Website](https://en.wikipedia.org/wiki/Linear_discriminant_analysis).
+
