@@ -20,7 +20,7 @@ how to access objects in R since they are easier compared with the contents give
 more time; the second one is that the project can be done with a small group like 2 persons so that we can share our ideas and communicate 
 more with each other.
 
-# Any other thoughts?  (I just like to hear how everyone is doing and get feedback to incorporate!
+# Any other thoughts?  
 
 The timeline for this course overally is a little tight since there are usually two dues in one week and sometimes there is not enough 
 time to digest everything in one module. For the due day, Monday is not so good since sometimes we cannot receive the reply timely on
