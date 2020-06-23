@@ -1,3 +1,10 @@
+---
+layout: post
+title: Third Blog
+---
+
+
+
 # Outline of Project 1
 
 This project is about analysing NHL data and contains four main parts: Describe JSON Data, Three Packages for Reading JSON Data into R, 
